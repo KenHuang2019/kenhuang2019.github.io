@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 個人簡介
+<a style="display: block; text-align: center;" href="https://kenhuang2019.medium.com/"><img src="https://miro.medium.com/fit/c/262/262/1*J4myJLew9LSBTOLJAUjajA.png" style="display: block; margin-left: auto; margin-right: auto;" /></a>
+<br>
+<p style="text-align: center; font-size:25px;"> 黃耀邦 Ken Huang </p>
+<p style="text-align: center;"> Email : kenhuang2019iii@gmail.com </p>
 
-You can use the [editor on GitHub](https://github.com/KenHuang2019/kenhuang2019.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p style="text-align: center;"> 近期研究方程式：Consistency regularization </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<p style="display: block; text-align: center;">
+$$
+\mathcal{L}_{KL} = 
+\sum_{\boldsymbol{x}_u \in \mathcal{X}_U} 
+\left(
+KL(f_c(\boldsymbol{c}_u),f_c(\boldsymbol{\bar{h}}_u)) \  + 
+\sum_{x_u^K \in \mathit{\Omega_{x_u}^p}} KL(f_c(\boldsymbol{c}_u),f_c(\boldsymbol{\bar{h}}_u^k)) 
+\right)
+$$
+</p>
+<a style="display: block; text-align: center;" href="https://arxiv.org/abs/2007.05934">Chenyang Si, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, and Jiashi Feng. Adversarial Self-Supervised Learning for Semi-Supervised 3d Action Recognition. In ECCV, 2020.</a>
 
-### Markdown
+<p style="text-align: center;"> 平常有空會把最近學到的東西整理並分享在 <a style="display: block; text-align: center;" href="https://kenhuang2019.medium.com/">Medium</a> ，歡迎有興趣的人一同交流 </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KenHuang2019/kenhuang2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
