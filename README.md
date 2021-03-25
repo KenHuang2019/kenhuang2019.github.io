@@ -19,5 +19,5 @@ $$
 </p>
 <a style="display: block; text-align: center;" href="https://arxiv.org/abs/2007.05934">Chenyang Si, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, and Jiashi Feng. Adversarial Self-Supervised Learning for Semi-Supervised 3d Action Recognition. In ECCV, 2020.</a>
 
-<p style="text-align: center;"> 平常有空會把最近學到的東西整理並分享在 <a style="display: block; text-align: center;" href="https://kenhuang2019.medium.com/">Medium</a> ，歡迎有興趣的人一同交流 </p>
+<p style="text-align: center;"> 平常有空會把最近學到的東西整理並分享在 <a href="https://kenhuang2019.medium.com/">Medium</a> ，歡迎有興趣的人一同交流 </p>
 
